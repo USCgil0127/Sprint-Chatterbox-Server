@@ -44,3 +44,7 @@ Advanced 콘텐츠는 여러분이 초보 개발자를 넘어 현업 엔지니�
 ## Refactor Chatterbox Server using Express
 
 ![](https://images.velog.io/images/gil0127/post/88540f42-586f-4451-9fe2-2e71181f1ad0/22.PNG)
+
+-----------------------
+
+## Sprint에 대한 더 자세한 내용은 [velog](https://velog.io/write?id=96e08188-a9b6-4161-aeba-62dce9bf60c0)에서 확인!!
