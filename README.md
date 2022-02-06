@@ -38,3 +38,11 @@ Advanced 콘텐츠는 여러분이 초보 개발자를 넘어 현업 엔지니�
 - 여러분의 공부 여정을 블로그에 기록하세요.
 
 ------
+
+# Sprint - Refactor Express
+
+## Refactor Chatterbox Server using Express
+
+### Bare minimum requirements
+
+![](https://images.velog.io/images/gil0127/post/88540f42-586f-4451-9fe2-2e71181f1ad0/22.PNG)
