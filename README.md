@@ -53,4 +53,4 @@ Advanced 콘텐츠는 여러분이 초보 개발자를 넘어 현업 엔지니�
 
 - `Express.js`로 리펙토링을 하고나니, `Express.js` 이전으로 되돌아가고 싶지 않다.
 
-## Sprint에 대한 더 자세한 내용은 [velog](https://velog.io/write?id=96e08188-a9b6-4161-aeba-62dce9bf60c0)에서 확인!!
+## Sprint에 대한 더 자세한 내용은 [velog](https://velog.io/@gil0127/Sprint-Chatterbox-Server)에서 확인!!
